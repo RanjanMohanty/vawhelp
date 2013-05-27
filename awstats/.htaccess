@@ -1,0 +1,4 @@
+AuthName "vawhelp.org statistics"
+AuthType Basic
+AuthUserFile /home/vawhelp/.awstats-htpasswd
+require valid-user
